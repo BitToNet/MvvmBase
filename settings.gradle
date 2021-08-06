@@ -1,0 +1,3 @@
+rootProject.name = "MvvmBase"
+include ':app'
+include ':JetpackMvvm'
